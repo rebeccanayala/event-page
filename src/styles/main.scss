@@ -10,16 +10,3 @@
 body {
     background-color: #FBFBF6;
 }
-
-.hero {
-    @media (max-width: 640px) {
-        max-width: 80%;
-    }
-
-    @media (max-width: 1024) {
-        max-width: 90%;
-    }
-}
-
-
-
