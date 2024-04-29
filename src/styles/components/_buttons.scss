@@ -1,0 +1,19 @@
+.button {
+    padding: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+    display: flex;
+    text-align: center;
+
+    &--primary {
+        color: #fff;
+        background-color: #87cc83;
+    }
+
+    &:hover {
+        background-color: #6abf66;
+    }
+
+    }
