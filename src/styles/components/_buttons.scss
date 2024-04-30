@@ -6,14 +6,15 @@
     border-radius: 5px;
     display: flex;
     text-align: center;
+    justify-content: center;
 
     &--primary {
         color: #fff;
-        background-color: #87cc83;
+        background-color: #6abf66;
     }
 
     &:hover {
-        background-color: #6abf66;
+        background-color: #87cc83;
     }
 
     }
